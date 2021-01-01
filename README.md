@@ -1,5 +1,5 @@
 # Key-Value-Data-Strore-
-Create Key-Value Data Strore  along with CRD(Create Read Delete) operations the data locally stored in the system .
+Create Key-Value Data Strore  along with CRD(Create Read Delete) operations on the data locally stored in the system .
 
 First create JSON file if not exist .Then we load data and perform basic operations
 
